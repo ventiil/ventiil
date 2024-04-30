@@ -15,6 +15,7 @@
 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/prisma.svg" alt="Prisma"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js"></code>
