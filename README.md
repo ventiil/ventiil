@@ -13,12 +13,15 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/React.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vuejs.svg"></code>
-<code><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M24,1.61H14.06L12,5.16,9.94,1.61H0L12,22.39ZM12,14.08,5.16,2.23H9.59L12,6.41l2.41-4.18h4.43Z"/></svg></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/prisma.svg" alt="Prisma"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/datagrip.svg" alt="DataGrip"></code>
+
+
 <!--END_SECTION:waka-->
 
 **mul_on_toomas_ja_unistus**
