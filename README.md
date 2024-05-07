@@ -26,5 +26,3 @@
 
 
 <!--END_SECTION:waka-->
-
-**mul_on_toomas_ja_unistus**
