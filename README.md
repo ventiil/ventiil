@@ -9,7 +9,7 @@
 **Personal Info:**
 
 - I am currently a student of **TPT**.
-- Currently learning **Web development and GameDev**. 
+- Currently learning **Anything that activates a neuron**. 
 
 **Languages and Tools:**  
 
