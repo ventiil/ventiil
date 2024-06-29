@@ -6,7 +6,7 @@
 
 - I like **competitive gaming**
 - Currently a student of **TPT**.
-- Currently learning **anything that activates a neuron**. 
+- Learning **anything that activates a neuron**. 
 
 **Languages and Tools:**  
 
