@@ -2,14 +2,11 @@
 
 <br />
 
-- I am a **Programming noob** 
-- I like **competitive gaming** and  **all kinds of software development**
-
-
 **Personal Info:**
 
-- I am currently a student of **TPT**.
-- Currently learning **Anything that activates a neuron**. 
+- I like **competitive gaming**
+- Currently a student of **TPT**.
+- Currently learning **anything that activates a neuron**. 
 
 **Languages and Tools:**  
 
