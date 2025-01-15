@@ -4,8 +4,8 @@
 
 **Personal Info:**
 
-- I like **competitive gaming**
-- Currently a student of **TPT**.
+- I like **game**
+- Currently a student of **TPT** and a intern.
 - Learning **anything that activates a neuron**. 
 
 **Languages and Tools:**  
