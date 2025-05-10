@@ -26,6 +26,7 @@
 <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/firebase-3.svg" alt="Firebase"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux"></code>
 
 
 
