@@ -20,6 +20,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/datagrip.svg" alt="DataGrip"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Jira"></code>
 
 
 <!--END_SECTION:waka-->
