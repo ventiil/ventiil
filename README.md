@@ -5,7 +5,7 @@
 **Personal Info:**
 
 - I like **game**
-- Currently a student of **TPT** and a intern.
+- Currently unemployed.
 - Learning **anything that activates a neuron**. 
 
 **Languages and Tools:**  
